@@ -4,6 +4,8 @@ Dots Nukem forever is a toy API project, implemented in Python using Flask and S
 
 ## Requirements
 
+  * Python3, sqlite3
+
   * see requirements.txt
 
 ## Installation & Deployment
