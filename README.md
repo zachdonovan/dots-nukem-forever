@@ -1,6 +1,6 @@
-# Dots Nukem: Forever
+# Mud Dragon
 
-Dots Nukem forever is a toy API project, implemented in Python using Flask and SQLAlchemy.
+Mud Dragon is a toy API project, implemented in Python using Flask and SQLAlchemy.
 
 ## Requirements
 
